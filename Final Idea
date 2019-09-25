@@ -11,4 +11,18 @@ The idea to sell roasted peanuts is not brand new but what is brand new and uniq
 A typical business interation would be a trucker driving down the road at 80 miles an hour and they see the "Highway Nuts" sign that says "Highway Nuts 1000 feet ahead" (with a grapic of our product). The truck driver realizing that he is hungry because he hasnt had food in hours cant resist our tempting sign and pulls off the highway at the roadside stop where we will greet the hungry truck driver with fresh roasted peanuts. Once he pulls off its gameover and we know he will buy our roasted peanuts no matter what so we will sell them for 7.50$. 
 
 
-Another typical business interation would be a family driving on a family road trip who is very hungry because our stand is set up in the middle on nowhere on I80 and they see the sign for some quality roasted peanuts and their children in the backseat and screaming for food so they pull over. We scam them into buying the peanuts because of how hungry the children are and sell 4 bags to one car. The family is so delighted by our roasted peanuts that they remember our stand and next family roadtrip they stop again and buy more roasted peanuts. Repeating this business model we will grow our business to have regulars driving the highway everyday stop and get some Roasted Peanuts. Which is why we will have the famed Roasted Nut club membership card to give users a discount of 2.50$ off every purchase with the card shown. The card will cost just 10$ and we will throw in a bag of peanuts with the card purchase. 
+Another typical business interation would be a family driving on a family road trip who is very hungry because our stand is set up in the middle on nowhere on I80 and they see the sign for some quality roasted peanuts and their children in the backseat and screaming for food so they pull over. We scam them into buying the peanuts because of how hungry the children are and sell 4 bags to one car. The family is so delighted by our roasted peanuts that they remember our stand and next family roadtrip they stop again and buy more roasted peanuts. Repeating this business model we will grow our business to have regulars driving the highway everyday stop and get some Roasted Peanuts. Which is why we will have the famed Roasted Nut club membership card to give users a discount of 2.50$ off every purchase with the card shown. The card will cost just 10$ and we will throw in a bag of peanuts with the card purchase.
+
+The Entities of Production were created to see how much our starting equipment would cost us and what type of peanut we would use.
+
+The Entities of Finance were created to see how much we spend and make on roasted peanuts through using our cost - sale price to get profits.
+
+The Entities of Location were created to see the different factors that could effect our business such as road being straight or curved and traffic flow. 
+
+The Entities of Employees were created to keep data on our employees such as DOB, wage, gender, age. 
+
+The Entities of Interaction were created to keep post data to help improve our business such as what our typical customer is and satisfactory rates.
+
+The chart has the attributes as well as the constraints listed. 
+
+A possible relationship between customer satisfaction and employee is made because the employee working can directly impact the experience of the customer.
