@@ -1,0 +1,27 @@
+Mobile Barber Shop:  Develop an app that allows you to schedule appointments where a barber will arrive to your house to give you a haircut as opposed to going into a barber shop.  The app will work as almost a "barber sharing" platform, where barbers that are off shift can signup when they have time and then subsequebtly get matched up with customers. 
+
+
+This product is unique becuase it provides a different platform for barbers to interact with customers.  Instead of being in a physical barbershop, they interact with customers and make profits using the app.  Customers on the other hand, receive unique service in the comfort of our own home.  
+
+A mobile barbershop has been done before, but it has yet to take off into the mainstream.
+
+A customer wants a haircut and goes onto the app to schedule an appontment.  He/She picks a time and date that works for them, and then the app matches them up with a barber that can accomodate the appointment.  Customers can also add their favorite barbers to their network, and schedule their appointments around when they are available.
+
+
+
+====================================================================================================================
+5 Tables:
+
+1.   **Finances**
+ Attributes: rates for haircuts, cost of marketing, cost of haircut tools, costs between different barbers
+2.   **Technology**
+ Attributes: the app platform, app developer, cost of app (or make it free) 
+3.   **Barbers**
+ Attributes: if they're certified cosmetologists, availability, if they use their own equioment
+4.   **Customers**:
+ Attributes: Age, income level, profession, amount of free time
+5.   **Marketing**
+ Attributes: marketing medium, social media plaform, frequency of marketing attempts
+
+The end-user data is for the creators of the mobile barbershop business strategy.
+The goal of the business is to capitalize on people who don't want to waste time traveling to and waiting in a barbershop, while simultaneously capitalizeing on barbers who want to earn extra cash after hours/ on off-days.
